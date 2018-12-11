@@ -1,5 +1,11 @@
-# test
+# Information
+
+Abraham Wu
+Graduate from Xi'an Jiaotong University
+TEL:
 13279392137
 15151079093
-NO.28,xianning west road,beilin,xi'an,shaanxi,china
+E_MAIL:
 abraham_wh@163.com
+ADDRESS:
+NO.28,Xianning West Road,Beilin,Xi'an,Shaanxi,China
